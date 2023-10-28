@@ -1,4 +1,4 @@
-module "gechub_vista_bucket" {
+module "gechub_vista_bucketmain" {
   source         = "one-two-uc.a.run.app/main/cloud-storage/gcp"
   version        =  "1.5.4"
   name           = "gechub_vista_bucket"
